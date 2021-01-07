@@ -1,0 +1,150 @@
+ .heading{
+  text-align: center;
+ }
+  .Website{
+    text-align: right;
+    background-color: rgb(107,107,245);
+  }
+
+   .Website li{
+    padding: 20px;
+    display: inline-block;
+    font-size: 20px;
+   }
+  
+   .Website li a{
+   color: white;
+   }
+  
+  .box{
+    width: 602px;
+    height: 608px;
+    border: 5px solid black;
+    margin: 20px auto;
+    background-color: rgb(108,108,250);
+  }
+   
+   .item1{
+    position: relative;
+  left: 02px;
+  top: 2px;  
+   }
+   
+   .item2{
+    position: relative;
+  left: 400px;
+  bottom: 202px;  
+ }
+
+  .item3{
+    position: relative;
+  left: 200px;
+  bottom: 205px;  
+ }
+
+    .item4{
+    position: relative;
+  left: 2px;
+  bottom: 207px;  
+ }
+
+   .item5{
+    position: relative;
+  left: 400px;
+  bottom: 411px;  
+ }
+
+   .box1{
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+
+   }
+
+   .item6{
+   position: absolute;
+   left: 0px;
+   }
+
+   .item7{
+   position: absolute;
+   left: 100px;
+   top: 0px;
+   }
+
+   .item8{
+   position: absolute;
+   left: 200px;
+   bottom: 200px;
+
+   }
+    
+    .item9{
+   position: absolute;
+   left: 400px;
+   bottom: 400px;
+   }
+
+
+    .item10{
+   position: absolute;
+   left:600px;
+   bottom: 600px;
+
+   }
+
+    .item11{
+   position: absolute;
+   left: 800px;
+   bottom:800px;
+
+   }
+
+    .item12{
+   position: absolute;
+   right: 200px;
+   bottom:200px;
+
+   }
+
+    .item13{
+   position: absolute;
+  right:0px;
+  bottom: 0px;
+   }
+
+   
+  .item7{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+  }
+  .item{
+    position: absolute;
+    bottom: 0px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
